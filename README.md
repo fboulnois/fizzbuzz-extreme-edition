@@ -42,7 +42,7 @@ FizzBuzz.
 ## Why would you write this?
 
 There are no other examples on the internet of using Rust to solve FizzBuzz, so
-I contributed my own.
+I contributed my own[.](docs/SOLUTION.md)
 
 ## How to build and run this?
 
