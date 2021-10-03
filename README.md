@@ -46,4 +46,4 @@ I contributed my own[.](docs/SOLUTION.md)
 
 ## How to build and run this?
 
-Type `cargo run`.
+Type `cargo run`. You can also run this online on the [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=81b6d4f2467b467458b82e6574459aa6).
